@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
-const TIMEOUT = 1000;
-const COLLECTION_NAME = 'CodeCats';
+const TIMEOUT = 10000;
+const COLLECTION_NAME = 'Nocryman';
 let editions = [];
 let dots = 1;
 
